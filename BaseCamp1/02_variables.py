@@ -6,6 +6,7 @@ name = "Alice"          # String (text)
 age = 25               # Integer (whole number)
 height = 5.6           # Float (decimal number)
 is_student = True      # Boolean (True or False)
+weight = 130.5          # Float (decimal number)
 
 # Using variables
 print("Name:", name)
